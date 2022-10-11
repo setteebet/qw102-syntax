@@ -1,18 +1,18 @@
 {
   "name": "qw102-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "lottovipเลขอั้น✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"lottovipเลขอั้น",
-"เล่นหวยผ่านเว็บ",
-"lottovip เข้าสู่ระบบล่าสุดวันนี้",
-"เว็บหวย",
-"หวยสด live"
-],
+  "version": "0.2.0",
+  "description": "lottovipเลขอั้น✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "lottovipเลขอั้น",
+    "เล่นหวยผ่านเว็บ",
+    "lottovip เข้าสู่ระบบล่าสุดวันนี้",
+    "เว็บหวย",
+    "หวยสด live"
+  ],
   "repository": "https://github.com/setteebet/qw102-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
